@@ -1,0 +1,10 @@
+ll_off 0
+all_on 44
+simple 4
+case_4 46
+case_5 45
+case_6 54
+case_7 58
+case_8 47
+case_9 47
+case_10 51

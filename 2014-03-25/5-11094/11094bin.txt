@@ -1,0 +1,100 @@
+5 5
+wwwww
+wwllw
+wwwww
+wllww
+wwwww
+1 3
+
+20 20
+wwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwww
+wwwwlwwwwwwwwwwlwwww
+wwwlllwwwwwwwwlllwww
+wwllwllwwwwwwllwllww
+wllwwwllwwwwllwwwllw
+wwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwww
+llllllllwwwwllllllll
+llllllllwwwwllllllll
+wwwwwwllwwwwllwwwwww
+wwwwwwllwwwwllwwwwww
+wwwwwllwwwwwwllwwwww
+wwwwwllwwwwwwllwwwww
+wwwwllwwwwwwwwllwwww
+lllllwwwwwwwwwwlllll
+llllwwwwwwwwwwwwllll
+wwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwww
+5 5
+
+20 20
+lllllllwwlllllllllww
+wwwwwwwwwllwwwwwllww
+wwwwwwwwwllwwwwwllww
+wwwwwwwwwwllwwwllwww
+wwwwwwwwwwllwwwllwww
+wwwwwwlwwwwllwwlwwww
+lllllllwwwwwlllwwwww
+llllllwwwwwwwllwwwww
+wwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwww
+wwwwwwlwwwwwlwwwwwww
+wwwwwllwwwwlllwlwwww
+wwwwllwwwwllwllllwww
+lwwllwwwwllwwwlwllww
+wwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwww
+lllllllwwlllllllllww
+10 3
+
+20 10
+wwwwwwwwww
+wwwwwwwwww
+wwwwwwwwww
+wwwwwlwwww
+wwwwlllwww
+wwwwllwwww
+wwwwwlllll
+wwwwwwllll
+wwwwwwwwww
+wwwwwwwwww
+wwwllwllww
+wwllwwwllw
+wwwwwwwwww
+wwwwwwwwww
+wwllllllll
+wwllllllll
+wwllwwwwww
+wwllwwwwww
+wwwllwwwww
+wwwllwwwww
+10 3
+
+10 20
+wwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwww
+wwwwwlwlwwwwwwwwwwww
+wwwwlllllwwwwwwwwwwl
+wwwllwlwllwwwlwwwwll
+wwllwwwwwllwwllwwllw
+wwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwww
+wwlllllllllwwlllllll
+9 3
+
+8 8
+wwwwwwww
+llwwwwll
+lwwwwwwl
+wwwwwwww
+wwwwwwww
+wlwwwwlw
+lllwwlll
+lllwwlll
+1 1

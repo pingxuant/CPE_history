@@ -1,0 +1,16 @@
+quadrangle
+rectangle
+square
+banana
+banana
+banana
+rectangle
+quadrangle
+rectangle
+quadrangle
+square
+quadrangle
+banana
+rectangle
+banana
+square

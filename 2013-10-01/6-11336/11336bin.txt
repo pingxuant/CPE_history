@@ -1,0 +1,574 @@
+COL1
+Cucuta Pamplona
+Barinas Villavicencio
+* * *
+COL2
+Barranquilla Villavicencio
+Villavicencio Pamplona
+Barinas Villavicencio
+Cucuta Pamplona
+Cucuta Barranquilla
+Barinas Barranquilla
+Cucuta Barinas
+Barranquilla Pamplona
+Barranquilla Bogota
+Pamplona Barinas
+* * *
+COL1
+Villavicencio Neiva
+Cali Bucaramanga
+* * *
+COL2
+Villavicencio Quibdo
+Neiva Villavicencio
+Quibdo Bucaramanga
+Bucaramanga Neiva
+Villavicencio Medellin
+Bucaramanga Villavicencio
+Medellin Cali
+Bucaramanga Medellin
+Cali Quibdo
+* * *
+COL1
+Quibdo Barinas
+Arauca Medellin
+* * *
+COL2
+Barinas Quibdo
+Popayan Barinas
+Bogota Medellin
+Popayan Medellin
+Barinas Bogota
+Bogota Neiva
+Arauca Medellin
+Popayan Bogota
+Barinas Neiva
+Popayan Acacias
+Quibdo Popayan
+Arauca Neiva
+Acacias Neiva
+Arauca Barinas
+Arauca Quibdo
+* * *
+COL1
+Pamplona Quibdo
+Pamplona Barinas
+Pamplona Barinas
+* * *
+COL2
+Barinas Cali
+Pasto Popayan
+Arauca Barranquilla
+Bogota Acacias
+Neiva Quibdo
+Cali Bucaramanga
+Neiva Bucaramanga
+Acacias Bucaramanga
+Cucuta Pasto
+Pasto Bucaramanga
+Arauca Neiva
+Pasto Armenia
+Barranquilla Pamplona
+Acacias Neiva
+Neiva Cali
+Pamplona Popayan
+Armenia Popayan
+Cucuta Cali
+Popayan Arauca
+* * *
+COL1
+Barranquilla Popayan
+Barranquilla Acacias
+* * *
+COL2
+Neiva Cucuta
+Popayan Acacias
+Villavicencio Cucuta
+Neiva Popayan
+Acacias Neiva
+Barranquilla Popayan
+Barranquilla Acacias
+Cucuta Acacias
+Villavicencio Acacias
+* * *
+COL1
+Armenia Armenia
+Armenia Popayan
+* * *
+COL2
+Cali Armenia
+Pamplona Arauca
+Pamplona Barinas
+Barranquilla Cucuta
+Bogota Pasto
+Arauca Medellin
+Popayan Medellin
+Armenia Barranquilla
+Pasto Pamplona
+Cucuta Pasto
+Pasto Popayan
+Barinas Popayan
+Pamplona Cucuta
+Pasto Medellin
+Neiva Popayan
+Armenia Bogota
+Barranquilla Neiva
+Medellin Pamplona
+Acacias Cali
+Cucuta Acacias
+Cucuta Arauca
+Bogota Popayan
+Cali Barinas
+Acacias Popayan
+Bogota Acacias
+Neiva Cali
+Popayan Arauca
+Popayan Armenia
+Bogota Pamplona
+Acacias Barranquilla
+Bucaramanga Neiva
+Pasto Barinas
+Popayan Bucaramanga
+Medellin Barinas
+Barinas Barranquilla
+Barranquilla Medellin
+Bucaramanga Cali
+Pamplona Cali
+Pasto Bucaramanga
+Bogota Neiva
+Pamplona Bucaramanga
+Bucaramanga Barinas
+Arauca Armenia
+Arauca Bogota
+Pamplona Popayan
+Pamplona Neiva
+Barinas Armenia
+Arauca Barinas
+Pasto Armenia
+Cucuta Popayan
+* * *
+COL1
+Cucuta Cali
+Pasto Bogota
+* * *
+COL2
+Bogota Neiva
+Pasto Neiva
+Neiva Cali
+Acacias Cucuta
+Cali Acacias
+Pasto Acacias
+Bogota Cali
+Cucuta Bogota
+Pasto Cucuta
+* * *
+COL1
+Barranquilla Bogota
+Arauca Cucuta
+* * *
+COL2
+Bogota Barranquilla
+Acacias Cucuta
+Cucuta Bogota
+* * *
+COL1
+Cucuta Bogota
+Villavicencio Tunja
+Medellin Cali
+* * *
+COL2
+Villavicencio Medellin
+Cali Villavicencio
+Cucuta Medellin
+Cali Bogota
+Barranquilla Cucuta
+Cali Cucuta
+* * *
+COL1
+Cucuta Quibdo
+Cali Arauca
+* * *
+COL2
+Popayan Villavicencio
+Armenia Pasto
+Neiva Bogota
+Villavicencio Neiva
+Medellin Cali
+Pasto Pamplona
+Medellin Pasto
+Pamplona Villavicencio
+Medellin Armenia
+Tunja Bogota
+Barinas Pasto
+Villavicencio Cucuta
+Acacias Pamplona
+Tunja Quibdo
+Cucuta Medellin
+Medellin Neiva
+Bucaramanga Tunja
+Quibdo Bogota
+Cali Villavicencio
+Quibdo Medellin
+Cali Tunja
+Cali Barranquilla
+Pamplona Bogota
+Cucuta Neiva
+Cucuta Cali
+Medellin Popayan
+Barranquilla Arauca
+Bucaramanga Pamplona
+Arauca Villavicencio
+Villavicencio Quibdo
+Barranquilla Medellin
+Bucaramanga Arauca
+Cali Arauca
+Pasto Bogota
+Cali Popayan
+Villavicencio Bogota
+Medellin Bucaramanga
+Pamplona Popayan
+Pasto Neiva
+Popayan Arauca
+Tunja Neiva
+Armenia Bogota
+Medellin Arauca
+Tunja Popayan
+Cucuta Arauca
+Quibdo Pasto
+Neiva Barinas
+Barranquilla Tunja
+Armenia Popayan
+Acacias Cucuta
+Quibdo Cali
+Popayan Bogota
+Villavicencio Bucaramanga
+Quibdo Cucuta
+Acacias Bogota
+Tunja Barinas
+Barinas Bucaramanga
+Cucuta Pasto
+Popayan Neiva
+Bucaramanga Cali
+Tunja Arauca
+Cali Pasto
+Pamplona Cucuta
+Bogota Medellin
+Armenia Quibdo
+Armenia Arauca
+Pamplona Quibdo
+Barinas Cucuta
+Cali Barinas
+Barinas Popayan
+Arauca Quibdo
+Tunja Armenia
+Arauca Neiva
+Pamplona Arauca
+Villavicencio Barranquilla
+Acacias Popayan
+Neiva Bucaramanga
+Popayan Bucaramanga
+Acacias Pasto
+Acacias Tunja
+Tunja Pasto
+Barinas Villavicencio
+Neiva Cali
+Pamplona Neiva
+Armenia Neiva
+Armenia Acacias
+Acacias Medellin
+Barinas Bogota
+Quibdo Acacias
+Pasto Bucaramanga
+Armenia Villavicencio
+Pamplona Barinas
+Popayan Pasto
+Armenia Cucuta
+Arauca Barinas
+Bucaramanga Barranquilla
+Barranquilla Pamplona
+Barranquilla Pasto
+Acacias Bucaramanga
+Bucaramanga Quibdo
+Barranquilla Bogota
+Pasto Arauca
+Bucaramanga Armenia
+Arauca Bogota
+Bogota Cali
+Acacias Barranquilla
+Tunja Medellin
+Villavicencio Pasto
+Barranquilla Neiva
+Neiva Acacias
+Acacias Villavicencio
+Pamplona Medellin
+Bucaramanga Cucuta
+Pamplona Armenia
+Cucuta Popayan
+Bogota Cucuta
+Arauca Acacias
+Cucuta Barranquilla
+* * *
+COL1
+Pamplona Neiva
+Acacias Tunja
+* * *
+COL2
+Armenia Pasto
+Neiva Villavicencio
+Acacias Arauca
+Pasto Bogota
+Cucuta Pamplona
+Pasto Pamplona
+Villavicencio Pamplona
+Cali Bogota
+Neiva Armenia
+Neiva Medellin
+Armenia Bogota
+Cucuta Arauca
+Medellin Villavicencio
+Cucuta Villavicencio
+Tunja Neiva
+Pasto Villavicencio
+Medellin Cucuta
+Tunja Medellin
+Bogota Neiva
+Cali Pamplona
+Pamplona Bogota
+Cali Villavicencio
+Tunja Cucuta
+Arauca Villavicencio
+Arauca Tunja
+Arauca Medellin
+Medellin Acacias
+Neiva Acacias
+Pasto Cali
+Acacias Bogota
+Cucuta Neiva
+Cali Tunja
+Arauca Pamplona
+Medellin Armenia
+Cali Arauca
+Villavicencio Acacias
+Neiva Pasto
+Cali Armenia
+Cucuta Acacias
+Tunja Bogota
+Arauca Bogota
+Pamplona Neiva
+Tunja Acacias
+Tunja Pamplona
+Armenia Arauca
+Cucuta Cali
+* * *
+COL1
+Cucuta Acacias
+Quibdo Pasto
+* * *
+COL2
+Pamplona Cucuta
+Bogota Quibdo
+Pasto Barinas
+Pasto Pamplona
+Barinas Pamplona
+Cucuta Bogota
+Cucuta Pasto
+Acacias Quibdo
+Barinas Cucuta
+Acacias Pasto
+Quibdo Pamplona
+Acacias Barinas
+Barinas Quibdo
+Bogota Pamplona
+Bogota Barinas
+Pasto Quibdo
+Bogota Pasto
+Acacias Bogota
+Quibdo Cucuta
+Cucuta Acacias
+Pamplona Acacias
+* * *
+COL1
+Arauca Bucaramanga
+Tunja Tunja
+Cucuta Cali
+* * *
+COL2
+Neiva Villavicencio
+Neiva Acacias
+Villavicencio Arauca
+Arauca Tunja
+Acacias Cali
+Acacias Arauca
+Cucuta Cali
+Cali Arauca
+Arauca Bucaramanga
+Cucuta Acacias
+Neiva Tunja
+* * *
+COL1
+Quibdo Medellin
+Bucaramanga Cali
+* * *
+COL2
+Armenia Bucaramanga
+Acacias Neiva
+Cucuta Armenia
+Barinas Quibdo
+Cali Bogota
+Villavicencio Popayan
+Cucuta Tunja
+Acacias Cucuta
+Popayan Acacias
+Neiva Bogota
+Villavicencio Neiva
+Neiva Cali
+Tunja Bogota
+Acacias Tunja
+Armenia Barranquilla
+Pamplona Barranquilla
+Medellin Cucuta
+Cali Tunja
+Armenia Popayan
+Barranquilla Cali
+Medellin Barinas
+Pamplona Popayan
+Bogota Cucuta
+Pasto Cali
+Acacias Bogota
+Armenia Tunja
+Neiva Quibdo
+Barranquilla Acacias
+Barinas Villavicencio
+Quibdo Bogota
+Pamplona Cali
+Villavicencio Bucaramanga
+Popayan Barranquilla
+Neiva Medellin
+Cucuta Neiva
+Bucaramanga Medellin
+Neiva Armenia
+Barinas Barranquilla
+Bogota Pasto
+Barinas Cucuta
+Cucuta Quibdo
+Villavicencio Cali
+Barranquilla Medellin
+Pasto Villavicencio
+* * *
+COL1
+Pamplona Tunja
+Arauca Medellin
+* * *
+COL2
+Barinas Pasto
+Cucuta Tunja
+Pamplona Tunja
+Acacias Arauca
+Barinas Cucuta
+Arauca Tunja
+Barinas Acacias
+Medellin Acacias
+Arauca Pamplona
+* * *
+COL1
+Tunja Pamplona
+Tunja Armenia
+* * *
+COL2
+Pamplona Armenia
+Pamplona Tunja
+Tunja Armenia
+* * *
+COL1
+Medellin Bogota
+Cucuta Pasto
+Armenia Cucuta
+* * *
+COL2
+Bogota Armenia
+Bogota Pasto
+Armenia Medellin
+Medellin Cucuta
+Bogota Medellin
+Armenia Pasto
+Cucuta Bogota
+* * *
+COL1
+Popayan Popayan
+Bogota Quibdo
+Neiva Acacias
+* * *
+COL2
+Arauca Popayan
+Pasto Popayan
+Armenia Neiva
+Bogota Quibdo
+Medellin Neiva
+Quibdo Barinas
+Armenia Bogota
+Arauca Barranquilla
+Neiva Bogota
+Quibdo Pasto
+Barranquilla Cali
+Popayan Quibdo
+Barranquilla Neiva
+Neiva Quibdo
+Barinas Barranquilla
+Medellin Cali
+Armenia Quibdo
+Armenia Cali
+Popayan Cali
+Pasto Barranquilla
+Acacias Popayan
+Medellin Armenia
+Popayan Barinas
+Barinas Neiva
+Neiva Pasto
+Armenia Barinas
+Armenia Acacias
+Quibdo Medellin
+Arauca Pasto
+Pasto Armenia
+Acacias Pasto
+* * *
+COL1
+Medellin Cucuta
+Bucaramanga Cali
+Quibdo Tunja
+* * *
+COL2
+Quibdo Tunja
+Pamplona Arauca
+Bucaramanga Cucuta
+Cali Armenia
+Pamplona Medellin
+Barinas Quibdo
+Pamplona Quibdo
+Armenia Pamplona
+Medellin Cali
+Armenia Tunja
+Arauca Armenia
+Barinas Cali
+Bucaramanga Quibdo
+Quibdo Armenia
+Quibdo Medellin
+Cali Cucuta
+Pamplona Cali
+Cali Bucaramanga
+* * *
+COL1
+Pamplona Armenia
+Barranquilla Cucuta
+Bucaramanga Medellin
+* * *
+COL2
+Armenia Acacias
+Barranquilla Pamplona
+Armenia Barranquilla
+Cucuta Bucaramanga
+Pamplona Armenia
+Cucuta Medellin
+Bogota Arauca
+Popayan Barranquilla
+* * *
+END

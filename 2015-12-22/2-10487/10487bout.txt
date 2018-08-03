@@ -1,0 +1,136 @@
+ase 1:
+Closest sum to 1 is 15.
+Closest sum to 51 is 51.
+Closest sum to 30 is 29.
+Case 2:
+Closest sum to 1 is 3.
+Closest sum to 2 is 3.
+Closest sum to 3 is 3.
+Case 3:
+Closest sum to 4 is 4.
+Closest sum to 5 is 5.
+Closest sum to 6 is 5.
+Case 4:
+Closest sum to 31 is 52.
+Closest sum to 45 is 52.
+Closest sum to 67 is 64.
+Case 5:
+Closest sum to 10 is 61.
+Closest sum to 77 is 85.
+Closest sum to 99 is 96.
+Case 6:
+Closest sum to 26 is 26.
+Closest sum to 97 is 54.
+Closest sum to 42 is 40.
+Case 7:
+Closest sum to 99 is 83.
+Closest sum to 6 is 83.
+Closest sum to 150 is 83.
+Closest sum to 280 is 262.
+Closest sum to 260 is 262.
+Closest sum to 657 is 648.
+Case 8:
+Closest sum to 9689 is 9675.
+Closest sum to 4100 is 4114.
+Closest sum to 3167 is 3194.
+Closest sum to 8031 is 8032.
+Closest sum to 2905 is 2907.
+Closest sum to 8649 is 8652.
+Closest sum to 1021 is 1301.
+Closest sum to 5527 is 5525.
+Closest sum to 8211 is 8217.
+Case 9:
+Closest sum to 8427 is 8429.
+Closest sum to 8776 is 8861.
+Closest sum to 22644 is 22664.
+Closest sum to 13269 is 13381.
+Closest sum to 25074 is 25064.
+Closest sum to 10510 is 10498.
+Closest sum to 26831 is 26859.
+Closest sum to 3581 is 3599.
+Closest sum to 17939 is 17941.
+Closest sum to 26660 is 26676.
+Closest sum to 8036 is 8100.
+Closest sum to 27644 is 27630.
+Case 10:
+Closest sum to 8698 is 8708.
+Closest sum to 22333 is 22333.
+Closest sum to 31842 is 31845.
+Closest sum to 32279 is 32280.
+Closest sum to 9665 is 9677.
+Closest sum to 32533 is 32530.
+Closest sum to 21064 is 21063.
+Closest sum to 12793 is 12790.
+Closest sum to 9724 is 9730.
+Closest sum to 8929 is 8913.
+Closest sum to 17023 is 17023.
+Closest sum to 24690 is 24690.
+Closest sum to 4390 is 4374.
+Closest sum to 7314 is 7310.
+Closest sum to 10791 is 10793.
+Case 11:
+Closest sum to 6866 is 6863.
+Closest sum to 13597 is 13599.
+Closest sum to 7195 is 7199.
+Closest sum to 31554 is 31554.
+Closest sum to 1567 is 1588.
+Closest sum to 1182 is 1112.
+Closest sum to 8683 is 8683.
+Closest sum to 713 is 706.
+Closest sum to 31953 is 31953.
+Closest sum to 9222 is 9222.
+Closest sum to 27887 is 27887.
+Closest sum to 6983 is 6982.
+Closest sum to 27133 is 27133.
+Closest sum to 12319 is 12320.
+Closest sum to 11191 is 11193.
+Closest sum to 23523 is 23523.
+Closest sum to 31666 is 31666.
+Closest sum to 32702 is 32703.
+Case 12:
+Closest sum to 2314 is 2311.
+Closest sum to 14676 is 14676.
+Closest sum to 16358 is 16359.
+Closest sum to 26444 is 26444.
+Closest sum to 31609 is 31609.
+Closest sum to 11461 is 11461.
+Closest sum to 26771 is 26771.
+Closest sum to 14979 is 14979.
+Closest sum to 5977 is 5977.
+Closest sum to 8406 is 8406.
+Closest sum to 7311 is 7311.
+Closest sum to 14406 is 14406.
+Closest sum to 29225 is 29225.
+Closest sum to 32173 is 32173.
+Closest sum to 21300 is 21300.
+Closest sum to 27068 is 27068.
+Closest sum to 9984 is 9984.
+Closest sum to 23052 is 23052.
+Closest sum to 30730 is 30730.
+Closest sum to 20893 is 20893.
+Closest sum to 24433 is 24433.
+Case 13:
+Closest sum to 17468 is 17468.
+Closest sum to 12816 is 12816.
+Closest sum to 30618 is 30618.
+Closest sum to 30680 is 30680.
+Closest sum to 19132 is 19132.
+Closest sum to 17579 is 17579.
+Closest sum to 30399 is 30399.
+Closest sum to 22991 is 22991.
+Closest sum to 31212 is 31212.
+Closest sum to 24091 is 24091.
+Closest sum to 17063 is 17063.
+Closest sum to 1449 is 1449.
+Closest sum to 16094 is 16094.
+Closest sum to 20481 is 20481.
+Closest sum to 23556 is 23556.
+Closest sum to 22697 is 22697.
+Closest sum to 9181 is 9181.
+Closest sum to 21832 is 21832.
+Closest sum to 17570 is 17570.
+Closest sum to 30132 is 30132.
+Closest sum to 1862 is 1860.
+Closest sum to 15786 is 15786.
+Closest sum to 3299 is 3299.
+Closest sum to 27900 is 27900.

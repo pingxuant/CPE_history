@@ -1,0 +1,20 @@
+ES: COL2 is a more detailed version of COL1
+YES: COL2 is a more detailed version of COL1
+YES: COL2 is a more detailed version of COL1
+YES: COL2 is a more detailed version of COL1
+YES: COL2 is a more detailed version of COL1
+YES: COL2 is a more detailed version of COL1
+YES: COL2 is a more detailed version of COL1
+NO: COL2 is not a more detailed version of COL1
+NO: COL2 is not a more detailed version of COL1
+YES: COL2 is a more detailed version of COL1
+YES: COL2 is a more detailed version of COL1
+YES: COL2 is a more detailed version of COL1
+YES: COL2 is a more detailed version of COL1
+YES: COL2 is a more detailed version of COL1
+YES: COL2 is a more detailed version of COL1
+YES: COL2 is a more detailed version of COL1
+NO: COL2 is not a more detailed version of COL1
+YES: COL2 is a more detailed version of COL1
+NO: COL2 is not a more detailed version of COL1
+NO: COL2 is not a more detailed version of COL1

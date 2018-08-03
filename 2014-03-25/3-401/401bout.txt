@@ -1,0 +1,16 @@
+MTUXXV8VXXUTMA -- is a mirrored palindrome.
+
+AAA8VUXAAXUV8AAB -- is not a palindrome.
+
+E855ZSL23ESJ25ZZ83 -- is a mirrored string.
+
+YMJ33JMY -- is a regular palindrome.
+
+E58ILXJI8Z3 -- is a mirrored string.
+
+HJKPOL5LOPKJH -- is a regular palindrome.
+
+IMOTUUVVUUTOMI -- is a mirrored palindrome.
+
+IUYTHTJAGH -- is not a palindrome.
+

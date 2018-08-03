@@ -1,0 +1,39 @@
+et #1
+The minimum number of moves is 87.
+
+Set #2
+The minimum number of moves is 132.
+
+Set #3
+The minimum number of moves is 185.
+
+Set #4
+The minimum number of moves is 132.
+
+Set #5
+The minimum number of moves is 358.
+
+Set #6
+The minimum number of moves is 615.
+
+Set #7
+The minimum number of moves is 457.
+
+Set #8
+The minimum number of moves is 428.
+
+Set #9
+The minimum number of moves is 169.
+
+Set #10
+The minimum number of moves is 371.
+
+Set #11
+The minimum number of moves is 217.
+
+Set #12
+The minimum number of moves is 282.
+
+Set #13
+The minimum number of moves is 68.
+

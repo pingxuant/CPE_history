@@ -1,0 +1,27 @@
+cenario #1
+Frog Distance = 5.000
+
+Scenario #2
+Frog Distance = 1.414
+
+Scenario #3
+Frog Distance = 3.606
+
+Scenario #4
+Frog Distance = 4.472
+
+Scenario #5
+Frog Distance = 339.094
+
+Scenario #6
+Frog Distance = 108.171
+
+Scenario #7
+Frog Distance = 121.413
+
+Scenario #8
+Frog Distance = 91.411
+
+Scenario #9
+Frog Distance = 175.206
+

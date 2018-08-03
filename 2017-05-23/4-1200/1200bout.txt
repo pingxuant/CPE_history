@@ -1,0 +1,10 @@
+0
+IDENTITY
+2
+1
+-2
+1
+-6
+IMPOSSIBLE
+-8
+-45

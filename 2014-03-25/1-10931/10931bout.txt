@@ -1,0 +1,12 @@
+he parity of 1010 is 2 (mod 2).
+The parity of 11110 is 4 (mod 2).
+The parity of 101000 is 2 (mod 2).
+The parity of 110010 is 3 (mod 2).
+The parity of 1100100 is 3 (mod 2).
+The parity of 11001000 is 3 (mod 2).
+The parity of 10100000 is 2 (mod 2).
+The parity of 111100 is 4 (mod 2).
+The parity of 110010 is 3 (mod 2).
+The parity of 11111011011101110001 is 14 (mod 2).
+The parity of 110000110101000011 is 8 (mod 2).
+The parity of 1100110011001011101001011111 is 17 (mod 2).

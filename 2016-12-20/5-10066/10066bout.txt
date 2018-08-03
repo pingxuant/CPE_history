@@ -1,0 +1,60 @@
+Twin Towers #1
+Number of Tiles : 3
+
+Twin Towers #2
+Number of Tiles : 1
+
+Twin Towers #3
+Number of Tiles : 6
+
+Twin Towers #4
+Number of Tiles : 6
+
+Twin Towers #5
+Number of Tiles : 42
+
+Twin Towers #6
+Number of Tiles : 9
+
+Twin Towers #7
+Number of Tiles : 17
+
+Twin Towers #8
+Number of Tiles : 14
+
+Twin Towers #9
+Number of Tiles : 4
+
+Twin Towers #10
+Number of Tiles : 50
+
+Twin Towers #11
+Number of Tiles : 0
+
+Twin Towers #12
+Number of Tiles : 90
+
+Twin Towers #13
+Number of Tiles : 0
+
+Twin Towers #14
+Number of Tiles : 50
+
+Twin Towers #15
+Number of Tiles : 26
+
+Twin Towers #16
+Number of Tiles : 23
+
+Twin Towers #17
+Number of Tiles : 30
+
+Twin Towers #18
+Number of Tiles : 30
+
+Twin Towers #19
+Number of Tiles : 23
+
+Twin Towers #20
+Number of Tiles : 100
+

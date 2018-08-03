@@ -1,0 +1,10 @@
+ase_1 48
+case_2 57
+case_3 49
+case_4 46
+case_5 54
+case_6 51
+case_7 52
+case_8 45
+case_9 49
+case_10 46

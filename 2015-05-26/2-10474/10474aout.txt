@@ -1,0 +1,107 @@
+ASE# 1:
+5 found at 4
+CASE# 2:
+2 not found
+3 found at 3
+CASE# 3:
+11 not found
+4 found at 3
+3 not found
+5 found at 4
+9 not found
+7 found at 5
+10 not found
+CASE# 4:
+8 found at 3
+4 found at 1
+5 found at 2
+9 found at 4
+10 found at 8
+20 found at 10
+CASE# 5:
+7 found at 21
+19 found at 48
+8 not found
+6 found at 20
+20 found at 50
+2 found at 5
+7 found at 21
+15 found at 38
+12 found at 29
+11 found at 25
+17 found at 42
+7 found at 21
+12 found at 29
+3 found at 8
+3 found at 8
+8 not found
+1 found at 1
+4 found at 14
+18 found at 45
+15 found at 38
+15 found at 38
+18 found at 45
+19 found at 48
+20 found at 50
+18 found at 45
+2 found at 5
+5 found at 18
+13 found at 31
+1 found at 1
+1 found at 1
+13 found at 31
+15 found at 38
+18 found at 45
+11 found at 25
+6 found at 20
+14 found at 35
+9 found at 24
+8 not found
+13 found at 31
+17 found at 42
+17 found at 42
+15 found at 38
+14 found at 35
+8 not found
+8 not found
+5 found at 18
+20 found at 50
+3 found at 8
+10 not found
+4 found at 14
+13 found at 31
+CASE# 6:
+7 found at 30
+15 found at 57
+14 found at 55
+17 found at 68
+13 found at 51
+7 found at 30
+17 found at 68
+16 found at 62
+7 found at 30
+17 found at 68
+6 found at 26
+20 found at 82
+3 found at 14
+20 found at 82
+6 found at 26
+19 found at 78
+12 found at 48
+1 found at 1
+18 found at 73
+1 found at 1
+19 found at 78
+4 found at 19
+2 found at 10
+7 found at 30
+5 found at 24
+4 found at 19
+10 found at 40
+12 found at 48
+16 found at 62
+20 found at 82
+9 found at 38
+11 found at 43
+15 found at 57
+17 found at 68

@@ -1,0 +1,24 @@
+etwork 1
+The bandwidth is 10.
+
+Network 2
+The bandwidth is 2220.
+
+Network 3
+The bandwidth is 30.
+
+Network 4
+The bandwidth is 4768.
+
+Network 5
+The bandwidth is 20.
+
+Network 6
+The bandwidth is 30.
+
+Network 7
+The bandwidth is 17928.
+
+Network 8
+The bandwidth is 74780.
+

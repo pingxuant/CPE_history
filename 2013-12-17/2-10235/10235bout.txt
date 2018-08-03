@@ -1,0 +1,94 @@
+ is not prime.
+9 is not prime.
+9 is not prime.
+6 is not prime.
+7 is prime.
+3 is prime.
+2 is prime.
+9 is not prime.
+9 is not prime.
+4 is not prime.
+9 is not prime.
+4 is not prime.
+3 is prime.
+8 is not prime.
+6 is not prime.
+7 is prime.
+7 is prime.
+8 is not prime.
+2 is prime.
+97 is emirp.
+24 is not prime.
+12 is not prime.
+55 is not prime.
+70 is not prime.
+73 is emirp.
+75 is not prime.
+84 is not prime.
+10 is not prime.
+67 is prime.
+88 is not prime.
+56 is not prime.
+44 is not prime.
+39 is not prime.
+75 is not prime.
+62 is not prime.
+19 is prime.
+25 is not prime.
+75 is not prime.
+602 is not prime.
+193 is prime.
+733 is emirp.
+137 is prime.
+300 is not prime.
+570 is not prime.
+688 is not prime.
+105 is not prime.
+371 is not prime.
+2491 is not prime.
+4311 is not prime.
+4867 is not prime.
+3208 is not prime.
+7605 is not prime.
+1533 is not prime.
+5624 is not prime.
+6813 is not prime.
+9110 is not prime.
+89895 is not prime.
+33439 is not prime.
+29437 is prime.
+18592 is not prime.
+77052 is not prime.
+90432 is not prime.
+64190 is not prime.
+88281 is not prime.
+49605 is not prime.
+34528 is not prime.
+15983 is not prime.
+40627 is prime.
+69716 is not prime.
+52868 is not prime.
+62939 is prime.
+27387 is not prime.
+91678 is not prime.
+70898 is not prime.
+30809 is emirp.
+588545 is not prime.
+967990 is not prime.
+398882 is not prime.
+559837 is not prime.
+810537 is not prime.
+573932 is not prime.
+393269 is not prime.
+872030 is not prime.
+382981 is not prime.
+818386 is not prime.
+830706 is not prime.
+909428 is not prime.
+318403 is emirp.
+498234 is not prime.
+664738 is not prime.
+413484 is not prime.
+756831 is not prime.
+757428 is not prime.
+875497 is not prime.

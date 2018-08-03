@@ -1,0 +1,8 @@
+ax coverage = 211 :  1  5 12 28
+max coverage =   5 :  1  7 16 31 88
+max coverage =   3 :  1  5  8
+max coverage = 248 :  1  2  4  8 63 64
+max coverage = 102 :  1  2  4  8  9 16
+max coverage =  77 :  1  5  9 13 17 21 25 29 33 37
+max coverage = 126 :  1  2  4  8 16 32
+max coverage =  46 :  1  6 11 16 21

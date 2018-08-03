@@ -1,0 +1,12 @@
+ase 1: average length between pages = 1.833 clicks
+Case 2: average length between pages = 1.750 clicks
+Case 3: average length between pages = 4.500 clicks
+Case 4: average length between pages = 1.000 clicks
+Case 5: average length between pages = 50.000 clicks
+Case 6: average length between pages = 3.181 clicks
+Case 7: average length between pages = 2.875 clicks
+Case 8: average length between pages = 1.333 clicks
+Case 9: average length between pages = 4.222 clicks
+Case 10: average length between pages = 4.484 clicks
+Case 11: average length between pages = 7.667 clicks
+Case 12: average length between pages = 2.083 clicks

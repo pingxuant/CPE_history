@@ -1,0 +1,10 @@
+he maximum and minimum are 58 and 58.
+The maximum and minimum are 3696640000000000 and 3696640000000000.
+The maximum and minimum are 25416300 and 1002.
+The maximum and minimum are 178600 and 30478.
+The maximum and minimum are 539675136 and 2864446.
+The maximum and minimum are 3043456 and 10096.
+The maximum and minimum are 242556000 and 2302.
+The maximum and minimum are 375238656 and 8895890.
+The maximum and minimum are 3834230400 and 241170.
+The maximum and minimum are 18 and 18.
